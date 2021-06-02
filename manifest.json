@@ -1,0 +1,29 @@
+{
+  "name": "Restaurant Apps by BlackRisk",
+  "short_name": "BR Resto Apps",
+  "start_url": "https://localhost/TA2_1/web/index.php",
+  "scope": "/",
+  "display_override": ["window-control-overlay", "minimal-ui"],
+  "display": "standalone",
+  "background_color": "blue",
+  "theme_color": "blue",
+  "description": "Aplikasi Restaurant ini diciptakan untuk mempermudah para pekerja kasir maupun yang punya usaha, sekaligus sebagai Tugas Akhir 2 untuk syarat lulus S1",
+  "dir": "ltr",
+  "lang": "en-ID",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://localhost/TA2_1/gambar/icon/icon_electra_72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "https://localhost/TA2_1/gambar/icon/icon_electra_512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "url": "https://blackrisk.xyz/web/index.php?r=site%2Findex",
+  "manifestUrl": "https://localhost/TA2_1/manifest.json",
+  "screenshots": []
+}
